@@ -5,32 +5,51 @@ using UnityEngine.SceneManagement;
 
 public class heman_life : MonoBehaviour
 {
-    public int health;
+    public int playerHealth;
     public bool isAlive;
     // Start is called before the first frame update
-    void Start()
+    static void Start()
     {
-        hadDied = true;
+        isAlive = true;
     }
-
-    void Update()
+    
+    static void Update()
     {
-        if (gameObject.transform.position.y < -7)
+        if (Input.GetKeyDown("space"){
+            playerAttack();
+        }
+        if (gameObject.transform.position.y < -7) //below ground
         {
             Die();
         }
     }
 
-    void Die()
+    static void Die()
     {
+        isAlive = false;
+        GetComponent<SpriteRenderer>.sprite = dieSprite;
+        System.Threading.Thread.Sleep(5000);
+        GetComponent<SpriteRenderer>.sprite = blank;
         SceneManager.LoadScene("Prototype_1"); //restart level
-    }   
+    }
 
-    void onCollisionEnter2D (Collision2D call)
+    static void playerAttack()
     {
-        if(CollectionBase.gameObject.tag == "ground")
+        RaycastHD.Physcs2D.Raycast(transform.postition, Vector2.right);
+        if(hit != null && hit.collider != null && hit.collider.tag == "Enemy")
         {
-            isGrounded = true;
+            GetComponent<SpriteRenderer>().sprite = attackSprite;
+            Destroy(hit.collider.gameObject);
         }
+    }
+
+    static void playerBeHit(int damage)
+    {
+        playerHealth -= damage;
+        if(playerHealth = 0)
+        {
+            Die();
+        }
+
     }
 }

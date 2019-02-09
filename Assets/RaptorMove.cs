@@ -4,29 +4,41 @@ using UnityEngine;
 // player is called  Avatar
 public class RaptorMove : MonoBehaviour
 {
+    public static int points = 0;
     public Sprite[] moveSprites;
+    public List<Sprite> attackForm;
     public Sprite dieSprite;
     public Sprite blank;
     public Sprite attackSprite;
     public int moveSpeed = 2;
-    public int health=1; // is secreetly 2 hit
+    public int health=2; // is secreetly 2 hit
     public int damage = 1;
+    public int scoreGain = 1;
 
     // counters
     int updateLevel = 0;
     const int UPDATE_RATE = 18;
     int updateCounter = 0;
-    bool moving = true;
-    bool alive = true;
+    bool moving;
+    bool alive;
+    bool inRange;
+    GameObject player;
 
     // Use this for initialization
     void Start () {
-        //GetComponent<string>
+        health -= 1;
+        attackForm.Add(attackSprite);
+        attackForm.Add(moveSprites[0]);
+        moving = true;
+        alive = true;
+        inRange = false;
     }
 	
 	// Update is called once per frame
 	void Update ()
     {
+       
+
         if (alive)
         {
             if (moving)
@@ -34,9 +46,9 @@ public class RaptorMove : MonoBehaviour
                 UpdateMoveSprite();
                 move();
             }
-            if (isInRange())
+            if (inRange)
             {
-                attack();
+                //player. attack();
             }
         }
     }
@@ -59,24 +71,26 @@ public class RaptorMove : MonoBehaviour
 
     public int attack()
     {
+
+        
         updateCounter++;
         moving = false;
-        if (updateCounter == 5 + UPDATE_RATE / moveSpeed)
+        if (updateCounter == 5 + (UPDATE_RATE / moveSpeed))
         {
             updateLevel++;
-            GetComponent<SpriteRenderer>().sprite = attackSprite;
+            GetComponent<SpriteRenderer>().sprite = attackForm[updateLevel%2];
             updateCounter = 0;
-            return damage;
+            return damage* updateLevel % 2;
 
         }
         return 0;
         
     }
-
-    //TODO this
-    public bool isInRange()
+    
+    public void OnCollisionEnter2D(Collision2D col)
     {
-        return false;
+        player = col.gameObject;
+        inRange = (col.gameObject.tag.Equals("Player"));
     }
 
     public void beHit(int damage)
@@ -86,9 +100,23 @@ public class RaptorMove : MonoBehaviour
         if (health < 0)
         {
             alive = false;
-            GetComponent<SpriteRenderer>().sprite = dieSprite;
-            System.Threading.Thread.Sleep(3000);
-            GetComponent<SpriteRenderer>().sprite = blank;
+            StartCoroutine("Die");
+            points++;
         }
+    }
+
+    void DinoRaycast()
+    {
+       
+    }
+
+
+    //TODO recyle this thing
+    IEnumerator Die()
+    {
+        GetComponent<SpriteRenderer>().sprite = dieSprite;
+        yield return new WaitForSeconds(3);
+        GetComponent<SpriteRenderer>().sprite = blank;
+
     }
 }
