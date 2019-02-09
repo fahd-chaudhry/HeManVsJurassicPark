@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ce216afcc2cbe141b75634d534a0988
+timeCreated: 1549742792
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dieSprite: {fileID: 21300010, guid: 999064b6d03364e4b8f959bd8c06869d, type: 3}
+  - attackSprite: {fileID: 21300008, guid: 999064b6d03364e4b8f959bd8c06869d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
