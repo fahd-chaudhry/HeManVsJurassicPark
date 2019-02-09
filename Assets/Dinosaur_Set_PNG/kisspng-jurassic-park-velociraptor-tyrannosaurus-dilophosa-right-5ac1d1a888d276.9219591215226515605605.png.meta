@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 8170d98e01016924db360c3b4975f934
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_0
+    21300002: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_1
+    21300004: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_2
+    21300006: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_3
+    21300008: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_4
+    21300010: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_5
+    21300012: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_6
+    21300014: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_7
+    21300016: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_8
+    21300018: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_9
+    21300020: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_10
+    21300022: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_11
+    21300024: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_12
+    21300026: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_13
+    21300028: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_14
+    21300030: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_15
+    21300032: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_16
+    21300034: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_17
+    21300036: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_18
+    21300038: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_19
+    21300040: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_20
+    21300042: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_21
+    21300044: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_22
+    21300046: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_23
+    21300048: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_24
+    21300050: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_25
+    21300052: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_26
+    21300054: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_27
+    21300056: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_28
+    21300058: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_29
+    21300060: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_30
+    21300062: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_31
+    21300064: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_32
+    21300066: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_33
+    21300068: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_34
+    21300070: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_35
+    21300072: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_36
+    21300074: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_37
+    21300076: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_38
+    21300078: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_39
+    21300080: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_40
+    21300082: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_41
+    21300084: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_42
+    21300086: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_43
+    21300088: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_44
+    21300090: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_45
+    21300092: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_46
+    21300094: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_47
+    21300096: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_48
+    21300098: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_49
+    21300100: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_50
+    21300102: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_51
+    21300104: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_52
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 586
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da395cc815c21174381dad01d0b6f3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 586
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab18dd672c5e440ad3e77f3991dc5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 586
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0fed54f57ca55418a3568bd63abd00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 586
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e791480fbd47515459288fda6633c0d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 586
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c72bd70e3ae347873284e8e7f268d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 586
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc313b2f3ef0745a6c4feaea3136bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 510
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501bd38aa0659d444a9a75af3965719d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 510
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce09534d58e1f04fa134f487416ebce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 510
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce746800bf138459a0c293a6d690da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 510
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bace0b549315545b7fbb3323053b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 510
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27e20467da27c341aba66edb0b2bcd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 510
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ca4ab461a5634cabfe015196c5727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 452
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2083a04f2dfc1714496923dad955a069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 452
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ad4649ba12c247994fcd12bb09197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 452
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5f4ce447adc3f4c826073c8afd2194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 452
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9313f760e76e48911c1c5eed3e647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 452
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca953e2ef28229d4e91201671343f6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 452
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55785497bd3c54ea3855b0417c76e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 387
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a1bd4cd95a9949ac1b10302232232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 387
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7a726f39f046e4ea57eed271d253f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 387
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04315732339ec43b76571f236fbb2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 387
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b9ed0d4b384494bac7dbc04cdd0d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 387
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08693d66018334945ab62ba46e93aaff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 387
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00c21fde28333a4eb3b9eca053e8bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 312
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb0411d4dc9ef34c8b50d706d5a495e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 312
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b3f54f558b9c49962983cc54861b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 312
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11007369364ff8468176c841401f2a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 312
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2321144ed3402f46b4b3dd83d150459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_28
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 312
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e880c5c3d90943ba4b4e68b3a15c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 312
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694744e8a63343149b6714d2fa77f428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 237
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23cbddcb891f23448bf0a235991f334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 237
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b25bc259df0042478904031e85a5498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 237
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a92a5bf5c07a6849a6763cf2b554d11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 237
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bbd6a2832ca6b439d9f1ab72e05577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 239
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb456077a9ecd448b0af0841ee4c1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 168
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f217e75779a3f45adfa66d0c8b5428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 163
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c13828bc67fa554185b091d7972fac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_37
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 163
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e5c483bf82c7c46959fe07ee3ce08e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 175
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4161336e4287d2348a4aa5d3c821cc9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 119
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b351d5b60dd311469dd378ef1356629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_40
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 155
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384fddb8d3536b443b778f91cf4281d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 113
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5954001b915ef44bae7f387dc9619e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 89
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d8aa69455029446976a9e728d7e7bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff789969256e1046a07d8e5f858364e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_44
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 101
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da2a234424ca0498dbd4829547a5e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 89
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba93eb3c0be6ec48b630d6a7471a1ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_46
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56e6fe2521fc864c8139bcc7bcb3b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d6b5f12dc5f04dad336c5ae9b463c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 33
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b65dbb37f49c438b1deaae7b2a0db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_49
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 69
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e971290f0e7c4c8bd1d57a82ace9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345af44b08dd53408d5d87561a7a887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 14
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2645d6ad23b80b6448a6f6149e616fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-jurassic-park-velociraptor-tyrannosaurus-dilophosa-right-5ac1d1a888d276.9219591215226515605605_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec6d55f97d6014d85567a2409184a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 96ac940aca7be544d90d72f640c9e274
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
