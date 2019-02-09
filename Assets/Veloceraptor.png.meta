@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 999064b6d03364e4b8f959bd8c06869d
-timeCreated: 1549739923
+timeCreated: 1549746303
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -10,6 +10,7 @@ TextureImporter:
     21300006: Veloceraptor_3
     21300008: Veloceraptor_Attack
     21300010: Veloceraptor_die
+    21300012: Blank
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -150,6 +151,19 @@ TextureImporter:
         height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blank
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 605
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
