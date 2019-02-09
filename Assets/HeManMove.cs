@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Heman_move : MonoBehaviour
-{
+public class HeManMove : MonoBehaviour {
+
     public int playerSpeed = 2;
     public bool facingRight = true;
     public int playerJumpPower = 1250;
@@ -46,4 +46,5 @@ public class Heman_move : MonoBehaviour
     {
 
     }
+   
 }
