@@ -5,9 +5,10 @@ using UnityEngine;
 public class Player_Move_Prot : MonoBehaviour {
 
     public int playerSpeed = 10;
-    private bool facingRight = false;
     public int playerJumpPower = 1250;
+    private bool facingRight = false;    
     private float moveX;
+    private float canJump = 0f;
     
     // Use this for initialization
     void start () {
@@ -17,14 +18,15 @@ public class Player_Move_Prot : MonoBehaviour {
     // Update is called once per frame
     void Update () {
         // Create new method called player move
-        PlayerMove (); 
+        PlayerMove ();
     }
 
     void PlayerMove() {
         // CONTROLS
         moveX = Input.GetAxis("Horizontal");
-        if (Input.GetButtonDown ("Jump")) {
+        if (Input.GetButtonDown ("Jump") && Time.time > canJump) {
             Jump();
+            canJump = Time.time + 1.01f;
         }
        
         // ANIMATIONS
