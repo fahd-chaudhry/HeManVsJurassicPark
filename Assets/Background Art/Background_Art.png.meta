@@ -25,6 +25,50 @@ TextureImporter:
     21300040: So_called_He-man_20
     21300042: So_called_He-man_21
     21300044: So_called_He-man_22
+    21300046: Background_Art_0
+    21300048: Background_Art_1
+    21300050: Background_Art_2
+    21300052: Background_Art_3
+    21300054: Background_Art_4
+    21300056: Background_Art_5
+    21300058: Background_Art_6
+    21300060: Background_Art_7
+    21300062: Background_Art_8
+    21300064: Background_Art_9
+    21300066: Background_Art_10
+    21300068: Background_Art_11
+    21300070: Background_Art_12
+    21300072: Background_Art_13
+    21300074: Background_Art_14
+    21300076: Background_Art_15
+    21300078: Background_Art_16
+    21300080: Background_Art_17
+    21300082: Background_Art_18
+    21300084: Background_Art_19
+    21300086: Background_Art_20
+    21300088: Background_Art_21
+    21300090: Background_Art_22
+    21300092: Background_Art_23
+    21300094: Background_Art_24
+    21300096: Background_Art_25
+    21300098: Background_Art_26
+    21300100: Background_Art_27
+    21300102: Background_Art_28
+    21300104: Background_Art_29
+    21300106: Background_Art_30
+    21300108: Background_Art_31
+    21300110: Background_Art_32
+    21300112: Background_Art_33
+    21300114: Background_Art_34
+    21300116: Background_Art_35
+    21300118: Background_Art_36
+    21300120: Background_Art_37
+    21300122: Background_Art_38
+    21300124: Background_Art_39
+    21300126: Background_Art_40
+    21300128: Background_Art_41
+    21300130: Background_Art_42
+    21300132: Background_Art_43
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -107,461 +151,881 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: So_called_He-man_0
+      name: Background_Art_0
       rect:
         serializedVersion: 2
-        x: 53
-        y: 189
-        width: 25
-        height: 58
+        x: 0
+        y: 4876
+        width: 460
+        height: 244
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d34bcca750fe5149b95aa95026bcca2
+      spriteID: 644e74ba799b15346b8aea3f08be01c3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_1
+      name: Background_Art_1
       rect:
         serializedVersion: 2
-        x: 104
-        y: 191
-        width: 25
-        height: 58
+        x: 671
+        y: 4589
+        width: 1065
+        height: 490
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b0548addf1c7b04bb2702431d5ef5d1
+      spriteID: aeaa2d5e55a36f64ab5a64c8f6ee155e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_2
+      name: Background_Art_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 190
-        width: 33
-        height: 57
+        x: 1583
+        y: 4099
+        width: 3537
+        height: 1021
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 340d2ef237e35494d9aadf16ed5a5101
+      spriteID: 01975aaf470048240a8acfffe2d07773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_3
+      name: Background_Art_3
       rect:
         serializedVersion: 2
-        x: 212
-        y: 190
-        width: 40
-        height: 57
+        x: 59
+        y: 4121
+        width: 285
+        height: 672
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63b7b532321cded418b59137e7f681b3
+      spriteID: cd0fa00c7f9d4da438781e70c06a40c8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_4
+      name: Background_Art_4
       rect:
         serializedVersion: 2
-        x: 277
-        y: 177
-        width: 30
-        height: 71
+        x: 759
+        y: 4419
+        width: 52
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56d2d990940c9eb43b3fa86614f41006
+      spriteID: d0acc775d3674e54faa037be8aed23fd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_5
+      name: Background_Art_5
       rect:
         serializedVersion: 2
-        x: 333
-        y: 190
-        width: 35
-        height: 57
+        x: 1016
+        y: 4268
+        width: 328
+        height: 242
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f92c74825aa4b2c4faee74103e12c8b4
+      spriteID: 96edc685a1c03994084355a1b00c8a27
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_6
+      name: Background_Art_6
       rect:
         serializedVersion: 2
-        x: 398
-        y: 191
-        width: 35
-        height: 57
+        x: 1410
+        y: 4266
+        width: 214
+        height: 245
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d4a31d191f105e4794310e48243c320
+      spriteID: c556bd9985825ac44aed04e71433b9ab
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_7
+      name: Background_Art_7
       rect:
         serializedVersion: 2
-        x: 7
-        y: 93
-        width: 39
-        height: 75
+        x: 4676
+        y: 3966
+        width: 158
+        height: 463
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93dc3d45205250249a4edd29b972a58b
+      spriteID: 9a7a1f1230980a444abcc34cefb05c00
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_8
+      name: Background_Art_8
       rect:
         serializedVersion: 2
-        x: 50
-        y: 93
-        width: 43
-        height: 79
+        x: 4934
+        y: 3919
+        width: 165
+        height: 647
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c2a75791356b934ab917dea1a22d074
+      spriteID: 24c53763d5aa56a4190cee73a517ff72
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_9
+      name: Background_Art_9
       rect:
         serializedVersion: 2
-        x: 102
-        y: 93
-        width: 54
-        height: 81
+        x: 154
+        y: 3864
+        width: 237
+        height: 257
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db8633ea91a8ffd4ea4e371e25c033e5
+      spriteID: bc3466cbd819d99468df5e202db7ce64
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_10
+      name: Background_Art_10
       rect:
         serializedVersion: 2
-        x: 169
-        y: 93
-        width: 36
-        height: 68
+        x: 506
+        y: 3477
+        width: 444
+        height: 844
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc732e726410bf647814d31102ecb382
+      spriteID: 1c1f6ea140ac67a41a6cc422c54713cb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_11
+      name: Background_Art_11
       rect:
         serializedVersion: 2
-        x: 230
-        y: 93
-        width: 23
-        height: 64
+        x: 1026
+        y: 4011
+        width: 374
+        height: 203
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aaddc64ca74c5884fa77420194756823
+      spriteID: 7c774e551d712084b90ae2dfb5dd5d9d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_12
+      name: Background_Art_12
       rect:
         serializedVersion: 2
-        x: 276
-        y: 84
-        width: 44
-        height: 72
+        x: 1441
+        y: 3971
+        width: 190
+        height: 217
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de9e7171d34296143abadba9e74e987e
+      spriteID: 40e38b593f593024d8749aea22389c56
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_13
+      name: Background_Art_13
       rect:
         serializedVersion: 2
-        x: 333
-        y: 92
-        width: 44
-        height: 59
+        x: 3244
+        y: 3616
+        width: 1366
+        height: 647
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b9f39d66d49ef54f8837321d174d27c
+      spriteID: 77de251177a58d2469980db56fc6d268
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_14
+      name: Background_Art_14
       rect:
         serializedVersion: 2
-        x: 383
-        y: 92
-        width: 54
-        height: 59
+        x: 156
+        y: 3419
+        width: 235
+        height: 382
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8860fae68c823d64db51c1220ac96dfb
+      spriteID: 2ecd0a339ee1471409bf5b29a67dce8b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_15
+      name: Background_Art_15
       rect:
         serializedVersion: 2
-        x: 449
-        y: 93
-        width: 50
-        height: 52
+        x: 1099
+        y: 3709
+        width: 221
+        height: 270
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dbfbd44190c79544b754fd306992818
+      spriteID: 242515c4bee8a5444931c68e17aab335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_16
+      name: Background_Art_16
       rect:
         serializedVersion: 2
-        x: 80
-        y: 16
-        width: 26
-        height: 56
+        x: 1436
+        y: 3616
+        width: 225
+        height: 180
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b134316b31ec5b47a1f5e7c31dbd595
+      spriteID: 46b304ee6ecf8224bbed6902aa09e5ac
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_17
+      name: Background_Art_17
       rect:
         serializedVersion: 2
-        x: 115
-        y: 16
-        width: 45
-        height: 58
+        x: 1706
+        y: 3639
+        width: 144
+        height: 250
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd084190798b4a844b2c1cf2350b3e77
+      spriteID: 38ac74d4e8ec86e4e890d4c3025e4cfc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_18
+      name: Background_Art_18
       rect:
         serializedVersion: 2
-        x: 176
-        y: 17
-        width: 38
-        height: 59
+        x: 4678
+        y: 3591
+        width: 394
+        height: 250
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a85df8dbebb9904d9e2d213fcc1eed2
+      spriteID: be5b5a2b81dc6b24689acb8b033ca3b9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_19
+      name: Background_Art_19
       rect:
         serializedVersion: 2
-        x: 226
-        y: 17
-        width: 25
-        height: 57
+        x: 1016
+        y: 3360
+        width: 265
+        height: 231
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9773d773f1000a54aac97b2554ed5680
+      spriteID: 1a91e55aeeca74344839254f643d9d50
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_20
+      name: Background_Art_20
       rect:
         serializedVersion: 2
-        x: 269
-        y: 17
-        width: 34
-        height: 57
+        x: 1354
+        y: 3416
+        width: 37
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 120e2224946898c43b03db9a7b7d81cc
+      spriteID: 47b9620566f3cf54faf2208f50a9310f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_21
+      name: Background_Art_21
       rect:
         serializedVersion: 2
-        x: 321
-        y: 19
-        width: 33
-        height: 52
+        x: 1389
+        y: 3390
+        width: 515
+        height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b5ba7f5e3d75604ead9e3c9efb3a3f5
+      spriteID: b500c61529d70304d86efaa5b27f20a8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: So_called_He-man_22
+      name: Background_Art_22
       rect:
         serializedVersion: 2
-        x: 389
-        y: 24
-        width: 60
-        height: 20
+        x: 3240
+        y: 2836
+        width: 1366
+        height: 645
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75f74993219a3254bacd2b92df3d6c8c
+      spriteID: 0ca247d9ecbb07c4297078cdec19ca68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2944
+        width: 321
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bf09d7f91da5b4ba2db03dc6fad5bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_24
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2981
+        width: 570
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7693f301a9e094a829255903adc58a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3039
+        width: 179
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f4faccb9da900479a5b47b49bf4062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_26
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 3040
+        width: 170
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012e60a5191d071459026f12a9a37bde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_27
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 3028
+        width: 167
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f121fa8d885184a9251424af247018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1932
+        width: 356
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e04848b44fb8498936ce4ff35070f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2299
+        width: 265
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1758178f62df44b772da15259b62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_30
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2574
+        width: 692
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266bec71abf647b4ca9879c00915ef03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_31
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 2736
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8930f61c04883143b0b3f665e9ac131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_32
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2620
+        width: 571
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc43fab78fc03c5419602c846607eab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_33
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2239
+        width: 280
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b008846a05c37f428f268c5da2ea999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_34
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 2366
+        width: 739
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30103414d141dc84caf7b3a279629090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1526
+        width: 564
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440fa2f6e087f26449d1660b3e2626c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_36
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1684
+        width: 1160
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f564dcffe0aaf4408892ff31975264a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_37
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1656
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626473d6593e41f4cb8b2ce094b76449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 580
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655c7f2f6ca50b4a87e57bee9062c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 696
+        width: 927
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8ca0ede5f30e34298b9798c43e806d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_40
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 620
+        width: 1477
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933117e6aedc4246a8ef59fcf992f15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_41
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 838
+        width: 1354
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41138aace422ba84ca593d1b542468a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1447
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e61e6311964f748b94e728ebea18c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Art_43
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 0
+        width: 3555
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02fafdc638b01a4aa84f8ea753a28c8
       vertices: []
       indices: 
       edges: []

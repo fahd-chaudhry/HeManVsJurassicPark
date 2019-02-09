@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// player is called  Avatar
 public class RaptorMove : MonoBehaviour
 {
     public Sprite[] moveSprites;
@@ -21,7 +21,7 @@ public class RaptorMove : MonoBehaviour
 
     // Use this for initialization
     void Start () {
-        
+        //GetComponent<string>
     }
 	
 	// Update is called once per frame
