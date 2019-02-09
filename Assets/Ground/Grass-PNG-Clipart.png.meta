@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: b3e70e62f7cb12748ba8845950daf7c4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Grass-PNG-Clipart_0
+    21300002: Grass-PNG-Clipart_1
+    21300004: Grass-PNG-Clipart_2
+    21300006: Grass-PNG-Clipart_3
+    21300008: Grass-PNG-Clipart_4
+    21300010: Grass-PNG-Clipart_5
+    21300012: Grass-PNG-Clipart_6
+    21300014: Grass-PNG-Clipart_7
+    21300016: Grass-PNG-Clipart_8
+    21300018: Grass-PNG-Clipart_9
+    21300020: Grass-PNG-Clipart_10
+    21300022: Grass-PNG-Clipart_11
+    21300024: Grass-PNG-Clipart_12
+    21300026: Grass-PNG-Clipart_13
+    21300028: Grass-PNG-Clipart_14
+    21300030: Grass-PNG-Clipart_15
+    21300032: Grass-PNG-Clipart_16
+    21300034: Grass-PNG-Clipart_17
+    21300036: Grass-PNG-Clipart_18
+    21300038: Grass-PNG-Clipart_19
+    21300040: Grass-PNG-Clipart_20
+    21300042: Grass-PNG-Clipart_21
+    21300044: Grass-PNG-Clipart_22
+    21300046: Grass-PNG-Clipart_23
+    21300048: Grass-PNG-Clipart_24
+    21300050: Grass-PNG-Clipart_25
+    21300052: Grass-PNG-Clipart_26
+    21300054: Grass-PNG-Clipart_27
+    21300056: Grass-PNG-Clipart_28
+    21300058: Grass-PNG-Clipart_29
+    21300060: Grass-PNG-Clipart_30
+    21300062: Grass-PNG-Clipart_31
+    21300064: Grass-PNG-Clipart_32
+    21300066: Grass-PNG-Clipart_33
+    21300068: Grass-PNG-Clipart_34
+    21300070: Grass-PNG-Clipart_35
+    21300072: Grass-PNG-Clipart_36
+    21300074: Grass-PNG-Clipart_37
+    21300076: Grass-PNG-Clipart_38
+    21300078: Grass-PNG-Clipart_39
+    21300080: Grass-PNG-Clipart_40
+    21300082: Grass-PNG-Clipart_41
+    21300084: Grass-PNG-Clipart_42
+    21300086: Grass-PNG-Clipart_43
+    21300088: Grass-PNG-Clipart_44
+    21300090: Grass-PNG-Clipart_45
+    21300092: Grass-PNG-Clipart_46
+    21300094: Grass-PNG-Clipart_47
+    21300096: Grass-PNG-Clipart_48
+    21300098: Grass-PNG-Clipart_49
+    21300100: Grass-PNG-Clipart_50
+    21300102: Grass-PNG-Clipart_51
+    21300104: Grass-PNG-Clipart_52
+    21300106: Grass-PNG-Clipart_53
+    21300108: Grass-PNG-Clipart_54
+    21300110: Grass-PNG-Clipart_55
+    21300112: Grass-PNG-Clipart_56
+    21300114: Grass-PNG-Clipart_57
+    21300116: Grass-PNG-Clipart_58
+    21300118: Grass-PNG-Clipart_59
+    21300120: Grass-PNG-Clipart_60
+    21300122: Grass-PNG-Clipart_61
+    21300124: Grass-PNG-Clipart_62
+    21300126: Grass-PNG-Clipart_63
+    21300128: Grass-PNG-Clipart_64
+    21300130: Grass-PNG-Clipart_65
+    21300132: Grass-PNG-Clipart_66
+    21300134: Grass-PNG-Clipart_67
+    21300136: Grass-PNG-Clipart_68
+    21300138: Grass-PNG-Clipart_69
+    21300140: Grass-PNG-Clipart_70
+    21300142: Grass-PNG-Clipart_71
+    21300144: Grass-PNG-Clipart_72
+    21300146: Grass-PNG-Clipart_73
+    21300148: Grass-PNG-Clipart_74
+    21300150: Grass-PNG-Clipart_75
+    21300152: Grass-PNG-Clipart_76
+    21300154: Grass-PNG-Clipart_77
+    21300156: Grass-PNG-Clipart_78
+    21300158: Grass-PNG-Clipart_79
+    21300160: Grass-PNG-Clipart_80
+    21300162: Grass-PNG-Clipart_81
+    21300164: Grass-PNG-Clipart_82
+    21300166: Grass-PNG-Clipart_83
+    21300168: Grass-PNG-Clipart_84
+    21300170: Grass-PNG-Clipart_85
+    21300172: Grass-PNG-Clipart_86
+    21300174: Grass-PNG-Clipart_87
+    21300176: Grass-PNG-Clipart_88
+    21300178: Grass-PNG-Clipart_89
+    21300180: Grass-PNG-Clipart_90
+    21300182: Grass-PNG-Clipart_91
+    21300184: Grass-PNG-Clipart_92
+    21300186: Grass-PNG-Clipart_93
+    21300188: Grass-PNG-Clipart_94
+    21300190: Grass-PNG-Clipart_95
+    21300192: Grass-PNG-Clipart_96
+    21300194: Grass-PNG-Clipart_97
+    21300196: Grass-PNG-Clipart_98
+    21300198: Grass-PNG-Clipart_99
+    21300200: Grass-PNG-Clipart_100
+    21300202: Grass-PNG-Clipart_101
+    21300204: Grass-PNG-Clipart_102
+    21300206: Grass-PNG-Clipart_103
+    21300208: Grass-PNG-Clipart_104
+    21300210: Grass-PNG-Clipart_105
+    21300212: Grass-PNG-Clipart_106
+    21300214: Grass-PNG-Clipart_107
+    21300216: Grass-PNG-Clipart_108
+    21300218: Grass-PNG-Clipart_109
+    21300220: Grass-PNG-Clipart_110
+    21300222: Grass-PNG-Clipart_111
+    21300224: Grass-PNG-Clipart_112
+    21300226: Grass-PNG-Clipart_113
+    21300228: Grass-PNG-Clipart_114
+    21300230: Grass-PNG-Clipart_115
+    21300232: Grass-PNG-Clipart_116
+    21300234: Grass-PNG-Clipart_117
+    21300236: Grass-PNG-Clipart_118
+    21300238: Grass-PNG-Clipart_119
+    21300240: Grass-PNG-Clipart_120
+    21300242: Grass-PNG-Clipart_121
+    21300244: Grass-PNG-Clipart_122
+    21300246: Grass-PNG-Clipart_123
+    21300248: Grass-PNG-Clipart_124
+    21300250: Grass-PNG-Clipart_125
+    21300252: Grass-PNG-Clipart_126
+    21300254: Grass-PNG-Clipart_127
+    21300256: Grass-PNG-Clipart_128
+    21300258: Grass-PNG-Clipart_129
+    21300260: Grass-PNG-Clipart_130
+    21300262: Grass-PNG-Clipart_131
+    21300264: Grass-PNG-Clipart_132
+    21300266: Grass-PNG-Clipart_133
+    21300268: Grass-PNG-Clipart_134
+    21300270: Grass-PNG-Clipart_135
+    21300272: Grass-PNG-Clipart_136
+    21300274: Grass-PNG-Clipart_137
+    21300276: Grass-PNG-Clipart_138
+    21300278: Grass-PNG-Clipart_139
+    21300280: Grass-PNG-Clipart_140
+    21300282: Grass-PNG-Clipart_141
+    21300284: Grass-PNG-Clipart_142
+    21300286: Grass-PNG-Clipart_143
+    21300288: Grass-PNG-Clipart_144
+    21300290: Grass-PNG-Clipart_145
+    21300292: Grass-PNG-Clipart_146
+    21300294: Grass-PNG-Clipart_147
+    21300296: Grass-PNG-Clipart_148
+    21300298: Grass-PNG-Clipart_149
+    21300300: Grass-PNG-Clipart_150
+    21300302: Grass-PNG-Clipart_151
+    21300304: Grass-PNG-Clipart_152
+    21300306: Grass-PNG-Clipart_153
+    21300308: Grass-PNG-Clipart_154
+    21300310: Grass-PNG-Clipart_155
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass-PNG-Clipart_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 1600
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7fa657f89ab8542a1226f734419c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass-PNG-Clipart_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 1600
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274f6f93dac03ac4a9e97192daf9178e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass-PNG-Clipart_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 1600
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ab6b9bd8f3df449eb4f5a3a4f7f3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass-PNG-Clipart_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 1600
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971235b1c08102c41a59632addc2cbb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass-PNG-Clipart_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1600
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed0f72fc67e2e542af86dddbac21081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b77c200798288704698f6f978cf729c1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
