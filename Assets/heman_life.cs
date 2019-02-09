@@ -27,7 +27,7 @@ public class heman_life : MonoBehaviour
 
         if (gameObject.transform.position.y < -7) //below ground
         {
-            Die();
+            playerDie();
         }
     }
 
@@ -37,7 +37,7 @@ public class heman_life : MonoBehaviour
         inRange = (col.gameObject.tag.Equals("Enemy"));
     }
 
-    static void Die()
+    static void playerDie()
     {
         isAlive = false;
         GetComponent<SpriteRenderer>.sprite = dieSprite;
@@ -61,7 +61,7 @@ public class heman_life : MonoBehaviour
         playerHealth -= damage;
         if(playerHealth = 0)
         {
-            Die();
+            playerDie();
         }
 
     }
