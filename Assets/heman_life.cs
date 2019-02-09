@@ -5,11 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class heman_life : MonoBehaviour
 {
-    public int playerHealth;
+    public int playerHealth = 10;
     public bool isAlive;
+    bool inRange;
     // Start is called before the first frame update
     static void Start()
     {
+        inRange = false;
         isAlive = true;
     }
     
@@ -18,10 +20,21 @@ public class heman_life : MonoBehaviour
         if (Input.GetKeyDown("space"){
             playerAttack();
         }
+        if (inRange)
+        {
+            playerBeHit();
+        }
+
         if (gameObject.transform.position.y < -7) //below ground
         {
             Die();
         }
+    }
+
+    public void OnCollisionEnter2D(Collision2D col)
+    {
+        player = col.gameObject;
+        inRange = (col.gameObject.tag.Equals("Enemy"));
     }
 
     static void Die()
