@@ -96,6 +96,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
+<<<<<<< HEAD
       - - {x: 16, y: -12}
         - {x: 16, y: 26}
         - {x: 114, y: 26}
@@ -104,6 +105,18 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a748c93e6513d7e4d868c7e1ddcac63d
+=======
+      - - {x: -115, y: 26}
+        - {x: -114, y: 122}
+        - {x: -81, y: 122}
+        - {x: -64, y: 105}
+        - {x: -50, y: 93}
+        - {x: -49, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f9540679fa9a545a90603c9584adbd
+>>>>>>> 908252ebcce19d6ea9ed2d9d58775d8a4167b6fd
       vertices: []
       indices: 
       edges: []

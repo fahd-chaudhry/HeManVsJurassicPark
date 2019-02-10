@@ -248,13 +248,13 @@ TextureImporter:
         width: 1600
         height: 106
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c7fa657f89ab8542a1226f734419c66
+      spriteID: 85274d47d2318a1479ceb259168cd1dd
       vertices: []
       indices: 
       edges: []
@@ -268,13 +268,13 @@ TextureImporter:
         width: 1600
         height: 106
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 274f6f93dac03ac4a9e97192daf9178e
+      spriteID: 8ac4d6fe0c6cd6443814602fcc3f0a06
       vertices: []
       indices: 
       edges: []
@@ -288,13 +288,13 @@ TextureImporter:
         width: 1600
         height: 106
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e6ab6b9bd8f3df449eb4f5a3a4f7f3a
+      spriteID: 06ab880dc27ea834195a41070e693806
       vertices: []
       indices: 
       edges: []
@@ -308,13 +308,13 @@ TextureImporter:
         width: 1600
         height: 106
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 971235b1c08102c41a59632addc2cbb0
+      spriteID: 29f52ef336faad945b8c382ce959b19c
       vertices: []
       indices: 
       edges: []
@@ -328,13 +328,13 @@ TextureImporter:
         width: 1600
         height: 106
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eed0f72fc67e2e542af86dddbac21081
+      spriteID: 38e72c852a8fcce41af9bb1cfb11c0a9
       vertices: []
       indices: 
       edges: []

@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 44a9a54a3b3a5634dbb520f80f2a3e22
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprites-background-1_0
+    21300002: sprites-background-1_1
+    21300004: sprites-background-1_2
+    21300006: sprites-background-1_3
+    21300008: sprites-background-1_4
+    21300010: sprites-background-1_5
+    21300012: sprites-background-1_6
+    21300014: sprites-background-1_7
+    21300016: sprites-background-1_8
+    21300018: sprites-background-1_9
+    21300020: sprites-background-1_10
+    21300022: sprites-background-1_11
+    21300024: sprites-background-1_12
+    21300026: sprites-background-1_13
+    21300028: sprites-background-1_14
+    21300030: sprites-background-1_15
+    21300032: sprites-background-1_16
+    21300034: sprites-background-1_17
+    21300036: sprites-background-1_18
+    21300038: sprites-background-1_19
+    21300040: sprites-background-1_20
+    21300042: sprites-background-1_21
+    21300044: sprites-background-1_22
+    21300046: sprites-background-1_23
+    21300048: sprites-background-1_24
+    21300050: sprites-background-1_25
+    21300052: sprites-background-1_26
+    21300054: sprites-background-1_27
+    21300056: sprites-background-1_28
+    21300058: sprites-background-1_29
+    21300060: sprites-background-1_30
+    21300062: sprites-background-1_31
+    21300064: sprites-background-1_32
+    21300066: sprites-background-1_33
+    21300068: sprites-background-1_34
+    21300070: sprites-background-1_35
+    21300072: sprites-background-1_36
+    21300074: sprites-background-1_37
+    21300076: sprites-background-1_38
+    21300078: sprites-background-1_39
+    21300080: sprites-background-1_40
+    21300082: sprites-background-1_41
+    21300084: sprites-background-1_42
+    21300086: sprites-background-1_43
+    21300088: sprites-background-1_44
+    21300090: sprites-background-1_45
+    21300092: sprites-background-1_46
+    21300094: sprites-background-1_47
+    21300096: sprites-background-1_48
+    21300098: sprites-background-1_49
+    21300100: sprites-background-1_50
+    21300102: sprites-background-1_51
+    21300104: sprites-background-1_52
+    21300106: sprites-background-1_53
+    21300108: sprites-background-1_54
+    21300110: sprites-background-1_55
+    21300112: sprites-background-1_56
+    21300114: sprites-background-1_57
+    21300116: sprites-background-1_58
+    21300118: sprites-background-1_59
+    21300120: sprites-background-1_60
+    21300122: sprites-background-1_61
+    21300124: sprites-background-1_62
+    21300126: sprites-background-1_63
+    21300128: sprites-background-1_64
+    21300130: sprites-background-1_65
+    21300132: sprites-background-1_66
+    21300134: sprites-background-1_67
+    21300136: sprites-background-1_68
+    21300138: sprites-background-1_69
+    21300140: sprites-background-1_70
+    21300142: sprites-background-1_71
+    21300144: sprites-background-1_72
+    21300146: sprites-background-1_73
+    21300148: sprites-background-1_74
+    21300150: sprites-background-1_75
+    21300152: sprites-background-1_76
+    21300154: sprites-background-1_77
+    21300156: sprites-background-1_78
+    21300158: sprites-background-1_79
+    21300160: sprites-background-1_80
+    21300162: sprites-background-1_81
+    21300164: sprites-background-1_82
+    21300166: sprites-background-1_83
+    21300168: sprites-background-1_84
+    21300170: sprites-background-1_85
+    21300172: sprites-background-1_86
+    21300174: sprites-background-1_87
+    21300176: sprites-background-1_88
+    21300178: sprites-background-1_89
+    21300180: sprites-background-1_90
+    21300182: sprites-background-1_91
+    21300184: sprites-background-1_92
+    21300186: sprites-background-1_93
+    21300188: sprites-background-1_94
+    21300190: sprites-background-1_95
+    21300192: sprites-background-1_96
+    21300194: sprites-background-1_97
+    21300196: sprites-background-1_98
+    21300198: sprites-background-1_99
+    21300200: sprites-background-1_100
+    21300202: sprites-background-1_101
+    21300204: sprites-background-1_102
+    21300206: sprites-background-1_103
+    21300208: sprites-background-1_104
+    21300210: sprites-background-1_105
+    21300212: sprites-background-1_106
+    21300214: sprites-background-1_107
+    21300216: sprites-background-1_108
+    21300218: sprites-background-1_109
+    21300220: sprites-background-1_110
+    21300222: sprites-background-1_111
+    21300224: sprites-background-1_112
+    21300226: sprites-background-1_113
+    21300228: sprites-background-1_114
+    21300230: sprites-background-1_115
+    21300232: sprites-background-1_116
+    21300234: sprites-background-1_117
+    21300236: sprites-background-1_118
+    21300238: sprites-background-1_119
+    21300240: sprites-background-1_120
+    21300242: sprites-background-1_121
+    21300244: sprites-background-1_122
+    21300246: sprites-background-1_123
+    21300248: sprites-background-1_124
+    21300250: sprites-background-1_125
+    21300252: sprites-background-1_126
+    21300254: sprites-background-1_127
+    21300256: sprites-background-1_128
+    21300258: sprites-background-1_129
+    21300260: sprites-background-1_130
+    21300262: sprites-background-1_131
+    21300264: sprites-background-1_132
+    21300266: sprites-background-1_133
+    21300268: sprites-background-1_134
+    21300270: sprites-background-1_135
+    21300272: sprites-background-1_136
+    21300274: sprites-background-1_137
+    21300276: sprites-background-1_138
+    21300278: sprites-background-1_139
+    21300280: sprites-background-1_140
+    21300282: sprites-background-1_141
+    21300284: sprites-background-1_142
+    21300286: sprites-background-1_143
+    21300288: sprites-background-1_144
+    21300290: sprites-background-1_145
+    21300292: sprites-background-1_146
+    21300294: sprites-background-1_147
+    21300296: sprites-background-1_148
+    21300298: sprites-background-1_149
+    21300300: sprites-background-1_150
+    21300302: sprites-background-1_151
+    21300304: sprites-background-1_152
+    21300306: sprites-background-1_153
+    21300308: sprites-background-1_154
+    21300310: sprites-background-1_155
+    21300312: sprites-background-1_156
+    21300314: sprites-background-1_157
+    21300316: sprites-background-1_158
+    21300318: sprites-background-1_159
+    21300320: sprites-background-1_160
+    21300322: sprites-background-1_161
+    21300324: sprites-background-1_162
+    21300326: sprites-background-1_163
+    21300328: sprites-background-1_164
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites-background-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 500
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e82198cdf529c43b4c2b91b8fa7fc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-background-1_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 675
+        width: 500
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19718844e9ca98e4b925fb839159d727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-background-1_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 675
+        width: 500
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba0ba28dd134024e9d3dae0e8538e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-background-1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 500
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1138503a5709549a2126395f575beb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-background-1_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 225
+        width: 500
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3323486d3f7621409040619c94eb527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites-background-1_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 225
+        width: 500
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7107d9f6093f1e741a88480092d86dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c6f104d12260aeb42b9e2233614ce320
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,16 +4,18 @@ using UnityEngine;
 
 public class Player_Score : MonoBehaviour
 {
-	public float timeLeft = 100;
-	public int score = RaptorMove.points;
-	public int lives = 3;
+    public int timeLeft = 100;
+    public int score = RaptorMove.points;
+    public int lives = 3;
     // Start is called before the first frame update
 
+
     // Update is called once per frame
-    void Update() {
-        timeLeft = Time.deltaTime;
-	    if (timeLeft < 0.1f) {
-	
-       	}   
-    }	
+    void Update()
+    {
+        //timeLeft = Time.deltaTime;
+        //if(timeLeft < 0.1f) {
+
+    }
+
 }
