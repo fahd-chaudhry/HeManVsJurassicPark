@@ -41,7 +41,7 @@ public class heman_life : MonoBehaviour
 
     IEnumerator Die()
     {
-        GetComponent<Animator>().StopPlayback();
+        //GetComponent<Animator>().SetBool("IsRunning", false);
         GetComponent<SpriteRenderer>().sprite = dieSprite;
         isAlive = false;
         yield return new WaitForSeconds(5);

@@ -113,9 +113,9 @@ public class RaptorMove : MonoBehaviour
         health -= damage;
         if (health < 0)
         {
-            GetComponent<Rigidbody2D>().AddForce(Vector2.up * 1000000000);
             alive = false;
             StartCoroutine("Die");
+            GetComponent<Rigidbody2D>().AddForce(Vector2.up * 1000000000);
             points++;
         }
     }
@@ -136,7 +136,7 @@ public class RaptorMove : MonoBehaviour
     IEnumerator Die()
     {
         GetComponent<SpriteRenderer>().sprite = dieSprite;
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(3);
         GetComponent<SpriteRenderer>().sprite = blank;
 
     }

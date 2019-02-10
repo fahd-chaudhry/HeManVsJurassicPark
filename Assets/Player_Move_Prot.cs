@@ -19,7 +19,6 @@ public class Player_Move_Prot : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        Debug.Log ("GOT HERE 1st");
         if (this.GetComponent<heman_life>().isAlive == true) {
             Debug.Log ("GOT HERE");
             PlayerMove();
@@ -43,7 +42,7 @@ public class Player_Move_Prot : MonoBehaviour {
             GetComponent<Animator>().SetBool ("IsRunning", true);
         }
         else {
-            GetComponent<Animator>().SetBool ("IsRunning", false);
+            //GetComponent<Animator>().SetBool ("IsRunning", false);
         } 
        
         // PLAYER DIRECTION
