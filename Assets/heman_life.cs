@@ -1,10 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿// using System.Collections;
+// using System.Collections.Generic;
+// using UnityEngine;
+// using UnityEngine.SceneManagement;
 
 public class heman_life : MonoBehaviour
 {
+    public int playerLives = 3;
     public int playerHealth = 10;
     public bool isAlive;
     bool inRange;
@@ -17,7 +18,8 @@ public class heman_life : MonoBehaviour
     
     static void Update()
     {
-        if (Input.GetKeyDown("space"){
+        if (Input.GetKeyDown("space")
+        {
             playerAttack();
         }
         if (inRange)
@@ -39,11 +41,15 @@ public class heman_life : MonoBehaviour
 
     static void playerDie()
     {
+        playerLives--;
         isAlive = false;
         GetComponent<SpriteRenderer>.sprite = dieSprite;
         System.Threading.Thread.Sleep(5000);
         GetComponent<SpriteRenderer>.sprite = blank;
-        SceneManager.LoadScene("Prototype_1"); //restart level
+        if(playerLives == 0)
+        {
+            SceneManager.LoadScene("Prototype_1"); //restart level
+        }
     }
 
     static void playerAttack()
@@ -59,7 +65,7 @@ public class heman_life : MonoBehaviour
     static void playerBeHit(int damage)
     {
         playerHealth -= damage;
-        if(playerHealth = 0)
+        if(playerHealth <= 0)
         {
             playerDie();
         }
