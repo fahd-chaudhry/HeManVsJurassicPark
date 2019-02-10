@@ -14,6 +14,7 @@ public class RaptorMove : MonoBehaviour
     public int health=2; // is secreetly 2 hit
     public int damage = 1;
     public int scoreGain = 1;
+    public bool isTarget;
 
     // counters
     int updateLevel = 0;
@@ -32,12 +33,20 @@ public class RaptorMove : MonoBehaviour
         moving = true;
         alive = true;
         inRange = false;
+        isTarget = false;
     }
 	
 	// Update is called once per frame
 	void Update ()
     {
-       
+       if(player!=null)
+        {
+            if (player.GetComponent<Player_Move_Prot>().isTarget == false)
+            {
+                moving = true;
+                inRange = false;
+            }
+        }
 
         if (alive)
         {
@@ -48,7 +57,11 @@ public class RaptorMove : MonoBehaviour
             }
             if (inRange)
             {
-                player.GetComponent<heman_life>().playerBeHit(attack());
+                if (player != null)
+                {
+                    int dmg = attack();
+                    player.GetComponent<heman_life>().playerBeHit(dmg);
+                }
             }
         }
     }
@@ -71,8 +84,6 @@ public class RaptorMove : MonoBehaviour
 
     public int attack()
     {
-
-        
         updateCounter++;
         moving = false;
         if (updateCounter == 5 + (UPDATE_RATE / moveSpeed))
@@ -81,7 +92,6 @@ public class RaptorMove : MonoBehaviour
             GetComponent<SpriteRenderer>().sprite = attackForm[updateLevel%2];
             updateCounter = 0;
             return damage* updateLevel % 2;
-
         }
         return 0;
         
@@ -92,7 +102,10 @@ public class RaptorMove : MonoBehaviour
         inRange = (col.gameObject.tag.Equals("Player"));
         if (inRange)
         {
+            Debug.Log("COllides");
+            Debug.Log(col.gameObject.tag);
             player = col.gameObject;
+            player.GetComponent<Player_Move_Prot>().isTarget = true; 
         }
     }
 
