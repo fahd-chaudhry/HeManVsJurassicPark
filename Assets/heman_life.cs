@@ -1,7 +1,7 @@
-﻿// using System.Collections;
-// using System.Collections.Generic;
-// using UnityEngine;
-// using UnityEngine.SceneManagement;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class heman_life : MonoBehaviour
 {
@@ -18,7 +18,7 @@ public class heman_life : MonoBehaviour
     
     static void Update()
     {
-        if (Input.GetKeyDown("space")
+        if (Input.GetKeyDown("space"))
         {
             playerAttack();
         }
