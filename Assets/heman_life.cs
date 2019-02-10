@@ -47,11 +47,11 @@ public class heman_life : MonoBehaviour
     IEnumerator Die()
     {
         GetComponent<SpriteRenderer>().sprite = dieSprite;
+        isAlive = false;
         yield return new WaitForSeconds(5);
         GetComponent<SpriteRenderer>().sprite = blank;
 
         playerLives--;
-        isAlive = false;
 
         if (playerLives == 0)
         {
