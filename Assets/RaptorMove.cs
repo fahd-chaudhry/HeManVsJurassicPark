@@ -48,7 +48,7 @@ public class RaptorMove : MonoBehaviour
             }
             if (inRange)
             {
-                player.GetComponent<heman_life>(). attack();
+                player.GetComponent<heman_life>().playerBeHit(attack());
             }
         }
     }
@@ -111,7 +111,7 @@ public class RaptorMove : MonoBehaviour
     void DinoRaycast()
     {
         RaycastHit2D hit = Physics2D.Raycast(transform.position, new Vector2(1, 0));
-        player.tag;
+        
     }
 
 
