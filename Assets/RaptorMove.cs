@@ -48,7 +48,7 @@ public class RaptorMove : MonoBehaviour
             }
             if (inRange)
             {
-                //player. attack();
+                player.GetComponent<heman_life>(). attack();
             }
         }
     }
@@ -89,8 +89,11 @@ public class RaptorMove : MonoBehaviour
     
     public void OnCollisionEnter2D(Collision2D col)
     {
-        player = col.gameObject;
         inRange = (col.gameObject.tag.Equals("Player"));
+        if (inRange)
+        {
+            player = col.gameObject;
+        }
     }
 
     public void beHit(int damage)
@@ -107,9 +110,15 @@ public class RaptorMove : MonoBehaviour
 
     void DinoRaycast()
     {
-       
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, new Vector2(1, 0));
+        player.tag;
     }
 
+
+    static int getPoints()
+    {
+        return points;
+    }
 
     //TODO recyle this thing
     IEnumerator Die()
