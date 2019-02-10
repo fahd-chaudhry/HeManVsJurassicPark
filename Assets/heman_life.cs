@@ -22,15 +22,10 @@ public class heman_life : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E))
+        if (playerHealth < 0)
         {
-            //playerAttack();
+            StartCoroutine("Die");
         }
-        if (inRange)
-        {
-
-        }
-
         if (gameObject.transform.position.y < -7) //below ground
         {
             StartCoroutine("Die");
@@ -46,6 +41,7 @@ public class heman_life : MonoBehaviour
 
     IEnumerator Die()
     {
+        GetComponent<Animator>().StopPlayback();
         GetComponent<SpriteRenderer>().sprite = dieSprite;
         isAlive = false;
         yield return new WaitForSeconds(5);

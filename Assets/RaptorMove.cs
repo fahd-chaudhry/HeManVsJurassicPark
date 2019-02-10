@@ -102,8 +102,6 @@ public class RaptorMove : MonoBehaviour
         inRange = (col.gameObject.tag.Equals("Player"));
         if (inRange)
         {
-            Debug.Log("COllides");
-            Debug.Log(col.gameObject.tag);
             player = col.gameObject;
             player.GetComponent<Player_Move_Prot>().isTarget = true; 
         }
@@ -115,6 +113,7 @@ public class RaptorMove : MonoBehaviour
         health -= damage;
         if (health < 0)
         {
+            GetComponent<Rigidbody2D>().AddForce(Vector2.up * 1000000000);
             alive = false;
             StartCoroutine("Die");
             points++;
@@ -137,7 +136,7 @@ public class RaptorMove : MonoBehaviour
     IEnumerator Die()
     {
         GetComponent<SpriteRenderer>().sprite = dieSprite;
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(1);
         GetComponent<SpriteRenderer>().sprite = blank;
 
     }
