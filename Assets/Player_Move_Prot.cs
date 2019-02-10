@@ -19,9 +19,9 @@ public class Player_Move_Prot : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        // Create new method called player move
-        if (this.GetComponent<heman_life>().isAlive)
-        {
+        Debug.Log ("GOT HERE 1st");
+        if (this.GetComponent<heman_life>().isAlive == true) {
+            Debug.Log ("GOT HERE");
             PlayerMove();
         }
     }
