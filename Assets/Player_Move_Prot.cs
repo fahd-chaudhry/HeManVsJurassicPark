@@ -6,7 +6,7 @@ public class Player_Move_Prot : MonoBehaviour {
 
     public int playerSpeed = 10;
     public int playerJumpPower = 1250;
-    private bool facingRight = false;    
+      
     private float moveX;
     private float canJump = 0f;
     
@@ -26,18 +26,23 @@ public class Player_Move_Prot : MonoBehaviour {
         moveX = Input.GetAxis("Horizontal");
         if (Input.GetButtonDown ("Jump") && Time.time > canJump) {
             Jump();
-            canJump = Time.time + 1.01f;
+            canJump = Time.time + 0.78f;
         }
        
         // ANIMATIONS
-       
+        if (moveX != 0) {
+            GetComponent<Animator>().SetBool ("IsRunning", true);
+        }
+        else {
+            GetComponent<Animator>().SetBool ("IsRunning", false);
+        } 
        
         // PLAYER DIRECTION
-        if (moveX < 0.0f && facingRight == false) {
-            FlipPlayer ();
+        if (moveX < 0.0f) {
+            GetComponent<SpriteRenderer>().flipX = true;            
         }
-        else if (moveX > 0.0f && facingRight == true) {
-            FlipPlayer();
+        else if (moveX > 0.0f) {
+            GetComponent<SpriteRenderer>().flipX = false;
         }
         
         
@@ -53,11 +58,5 @@ public class Player_Move_Prot : MonoBehaviour {
 
     }
 
-    void FlipPlayer() {
-        // Changes player directions when moving left/right
-        facingRight = !facingRight;
-        Vector2 localScale = gameObject.transform.localScale;
-        localScale.x *= -1;
-        transform.localScale = localScale;
-    }
+
 }
