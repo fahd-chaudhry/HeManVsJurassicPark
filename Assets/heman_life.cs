@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class heman_life : MonoBehaviour
 {
+    public int playerLives = 3;
     public int playerHealth = 10;
     public bool isAlive;
     bool inRange;
@@ -20,8 +21,14 @@ public class heman_life : MonoBehaviour
     
     void Update()
     {
+<<<<<<< HEAD
         if (Input.GetKeyDown(KeyCode.E)){
             //playerAttack();
+=======
+        if (Input.GetKeyDown("space")
+        {
+            playerAttack();
+>>>>>>> 7e285ac56456d5d420e76afebc01af89f41a776d
         }
         if (inRange)
         {
@@ -43,9 +50,22 @@ public class heman_life : MonoBehaviour
 
     IEnumerator Die()
     {
+<<<<<<< HEAD
         GetComponent<SpriteRenderer>().sprite = dieSprite;
         yield return new WaitForSeconds(5);
         GetComponent<SpriteRenderer>().sprite = blank;
+=======
+        playerLives--;
+        isAlive = false;
+        GetComponent<SpriteRenderer>.sprite = dieSprite;
+        System.Threading.Thread.Sleep(5000);
+        GetComponent<SpriteRenderer>.sprite = blank;
+        if(playerLives == 0)
+        {
+            SceneManager.LoadScene("Prototype_1"); //restart level
+        }
+    }
+>>>>>>> 7e285ac56456d5d420e76afebc01af89f41a776d
 
     }
     
@@ -63,7 +83,11 @@ public class heman_life : MonoBehaviour
     public void playerBeHit(int damage)
     {
         playerHealth -= damage;
+<<<<<<< HEAD
         if(playerHealth == 0)
+=======
+        if(playerHealth <= 0)
+>>>>>>> 7e285ac56456d5d420e76afebc01af89f41a776d
         {
             StartCoroutine("Die");
         }
